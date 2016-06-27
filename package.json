@@ -34,8 +34,7 @@
   ],
   "dependencies": {
     "eventemitter3": "^1.1.1",
-    "invariant": "^2.2.0",
-    "react": "0.14.x"
+    "invariant": "^2.2.0"
   },
   "devDependencies": {
     "rimraf": "^2.4.3",
@@ -67,7 +66,6 @@
     "karma-webpack": "^1.7.0",
     "mocha": "^2.3.4",
     "npm": "^3.5.2",
-    "react": "0.14.x",
     "sinon": "^1.17.2",
     "webpack": "^1.12.9"
   }
